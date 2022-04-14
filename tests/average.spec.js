@@ -40,4 +40,4 @@ describe('1 - Implemente a função `average`', () => {
     expect(average([])).toBeUndefined();
   });
 });
-.
+
